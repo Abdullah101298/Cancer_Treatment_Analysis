@@ -1,4 +1,4 @@
-# matplotlib-challenge
+Matplotlib Project
 
 Your tasks are to do the following:
 

@@ -1,6 +1,6 @@
 Matplotlib Project
 
-Your tasks are to do the following:
+The following tasks are done: 
 
 Task 1: Create a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 

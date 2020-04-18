@@ -1,5 +1,8 @@
 # Cancer Treatment Analysis 
 
+<<img src="https://images.newscientist.com/wp-content/uploads/2019/06/06165424/c0462719-cervical_cancer_cell_sem-spl.jpg?width=1200"  width="1000" height="300">
+
+
 ## Background 
 
 Pharmaceutical tests were done on mice to find out if certain how well certain drugs treat squamous cell carcinoma (SCC). Multiple plots are done to show which drug, if any, is best for the treatment of this cancer. 
